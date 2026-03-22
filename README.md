@@ -16,13 +16,13 @@ El administrador del sistema de ventas Unube, se requiere registrar categorías,
 | Tabla CLIENTES | Tabla VENTAS |
 | <img src="" alt="Logo" width=1000 height=200> | <img src="" alt="Logo" width=1000 height=200> |
 
-  1.1	Ejecución de las tablas, para las tablas se generaron comentarios de tabla y de sus columnas esto para documentar el propósito de cada tabla y campo.  <br> 
+  1.1	Ejecución de las tablas, para las tablas se generaron comentarios de tabla y de sus columnas esto para documentar el propósito de cada tabla y campo. <br> 
       a)	Tabla CATEGORIAS.  <br> 
-      -  <img src= "">
+        <img src= "">
       b) Tabla PRODUCTOS.  <br> 
-       -  <img src= "">
+        <img src= "">
       c) Tabla CLIENTES. <br> 
-        -  <img src= "">
+         <img src= "">
       d) Tabla VENTAS.  <br> 
   1.2	Se crearon secuencias para las llaves primarias de nuestras tablas creadas.
          -  <img src= "">
