@@ -16,35 +16,35 @@ El administrador del sistema de ventas Unube, se requiere registrar categorías,
 | Tabla CLIENTES | Tabla VENTAS |
 | <img src="" alt="Logo" width=1000 height=200> | <img src="" alt="Logo" width=1000 height=200> |
 
-    ### 1.1	Ejecución de las tablas, para las tablas se generaron comentarios de tabla y de sus columnas esto para documentar el propósito de cada tabla y campo.
+    1.1	Ejecución de las tablas, para las tablas se generaron comentarios de tabla y de sus columnas esto para documentar el propósito de cada tabla y campo.
       *a)	Tabla CATEGORIAS.*
       -  <img src= "">
       *b) Tabla PRODUCTOS.*
        -  <img src= "">
-       *c) Tabla CLIENTES.*
+      *c) Tabla CLIENTES.*
         -  <img src= "">
-        *d) Tabla VENTAS.*
-        #### 1.2	Se crearon secuencias para las llaves primarias de nuestras tablas creadas.
-     -  <img src= "">
+      *d) Tabla VENTAS.*
+    1.2	Se crearon secuencias para las llaves primarias de nuestras tablas creadas.
+         -  <img src= "">
   ## 2. Se crearon dos vistas
-    ### 2.1 La primera vista debe mostrar productos con su categoría.
+  2.1 La primera vista debe mostrar productos con su categoría.
      -  <img src= "">
-    ### 2.2 La segunda vista debe mostrar ventas con datos de clientes y productos
+  2.2 La segunda vista debe mostrar ventas con datos de clientes y productos
      -  <img src= "">
 ## 3. Se genero un Stored Procedure(SP) que registre una venta validando: cliente, producto, stock disponible y actualización del stock.
-    ### 3.1 El SP debe generar el ID de ventas automáticamente.
+  3.1 El SP debe generar el ID de ventas automáticamente.
      -  <img src= "">
 ## 4. Se generaron dos funciones
-    ### 4.1 La primera función que calcule el total de la venta (cantidad x precio).
+  4.1 La primera función que calcule el total de la venta (cantidad x precio).
      -  <img src= "">
-    ### 4.2	La segunda función debe calcular el IVA.
+  4.2	La segunda función debe calcular el IVA.
      -  <img src= "">
 ## 5. Se generaron inserciones directas a las tablas creadas para demostrar su funcionamiento.
  -  <img src= "">
 ## 6. Se generaron consultas de prueba para demostrar el funcionamiento de las vistas.
-    ### 6.1	Primera vista 
+  6.1	Primera vista 
      -  <img src= "">
-    ### 8.2 Segunda función
+  6.2 Segunda función
      -  <img src= "">
 ## 7. Se generaron consultas del SP que demuestre su funcionamiento.
  -  <img src= "">
