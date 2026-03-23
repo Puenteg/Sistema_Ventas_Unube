@@ -70,8 +70,11 @@ El administrador del sistema de ventas Unube, se requiere registrar categorías,
 ## 9. Se genero un Diagrama Entidad Relación (DER) de las cuatro tablas, indicando sus relaciones y cardinalidades.  <br> 
 <img width="442" height="370" alt="Diagrama_Entidad Relacion" src="https://github.com/user-attachments/assets/bc0091f4-7e3d-4a53-9851-5f911d5d82bf" /> <br>
 
-## 10. Scripts
-
+## 10. Scripts. <br>
+  [01-Creacion_Tablas](https://github.com/Puenteg/Sistema_Ventas_Unube/blob/main/01_creacion_tablas.sql)<br>
+  [02_Inserciones](https://github.com/Puenteg/Sistema_Ventas_Unube/blob/main/02_inserciones.sql)<br>
+  [03_Vistas](https://github.com/Puenteg/Sistema_Ventas_Unube/blob/main/03_vistas.sql)<br>
+  [04_Funciones_SP](https://github.com/Puenteg/Sistema_Ventas_Unube/blob/main/04_funciones_sp.sql)<br>
 
 
 
