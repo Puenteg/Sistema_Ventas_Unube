@@ -4,6 +4,9 @@
 Este repositorio se muestra la creación de una base de datos para el Sistema de Ventas Unube, se hace explicación clara de la creación de la base de datos. 
 <br>
 </p>
+<img width="958" height="518" alt="PRUEBA DELETE" src="https://github.com/user-attachments/assets/2329a213-be27-4a39-abed-54d0f195bb73" />
+
+
 
 # Sistema de Ventas Unube
 El administrador del sistema de ventas Unube, se requiere registrar categorías, productos, clientes y ventas, para disponer de un modelo de datos confiable que permita consultar inventarios, validar stock, registrar transacciones y generar reportes que apoyen la operación del negocio.
